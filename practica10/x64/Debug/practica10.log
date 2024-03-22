@@ -1,0 +1,6 @@
+﻿  practica10.cpp
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\practica10\practica10.cpp(76,158): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\practica10\practica10.cpp(76,158): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\practica10\practica10.cpp(131,39): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\practica10\practica10.cpp(48,8): warning C4101: IDThread: неиспользованная локальная переменная
+  practica10.vcxproj -> C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\x64\Debug\practica10.exe

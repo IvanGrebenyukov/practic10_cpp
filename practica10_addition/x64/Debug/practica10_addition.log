@@ -1,0 +1,5 @@
+﻿  practica10_addition.cpp
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\practica10_addition\practica10_addition.cpp(13,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\practica10_addition\practica10_addition.cpp(20,12): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+  LINK : не найден или не выполнена сборка C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\x64\Debug\practica10_addition.exe при последней инкрементной компоновке; выполняется полная компоновка
+  practica10_addition.vcxproj -> C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\SistProg\practica10\x64\Debug\practica10_addition.exe
